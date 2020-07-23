@@ -19,5 +19,8 @@ Usage:
 
 4th block: create files for every text in the input directory (both single files and a stacked version);
 
+#TO DO:
+Refactor
+Add NLP files
 
 # RUAN FERNANDES, Matheus Costa, Vitor Miguel. Aug/19.
