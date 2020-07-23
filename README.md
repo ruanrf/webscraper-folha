@@ -6,7 +6,7 @@
  The corpora consists of texts about Soccer World Cup from two distinct years, into a 1 month range around the '94 and '14 World Cup opening dates, containing the words "Copa do Mundo" and also, with the '94 text search options including "printed version".
 
 # Script usage is not meant to bypass the subscription system. 
-During development, we had a paid subscription in order to have full access to the website.
+During development, we had an account with a recurring payment in order to have full access to the website.
 
 Code will be refactored soon, for better usage and readability.
 
