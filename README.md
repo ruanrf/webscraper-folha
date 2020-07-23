@@ -8,7 +8,8 @@
 # Script usage is not meant to bypass the subscription system. 
 During development, we had an account with a recurring payment in order to have full access to the website.
 
-Code will be refactored soon, for better usage and readability.
+
+    Code will be refactored soon, for better usage and readability.
 
 
 Content:
