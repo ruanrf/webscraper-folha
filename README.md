@@ -27,7 +27,7 @@ During the development process, we had an account with a recurring payment in or
 
 
 # TO DO:
-    
+- [ ] Better readme.md
 - [ ] Refactor;
 - [ ] Add NLP processing;
 
