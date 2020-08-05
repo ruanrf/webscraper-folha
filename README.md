@@ -28,8 +28,8 @@ During the development process, we had an account with a recurring payment in or
 
 # TO DO:
     
-* Refactor;
-* Add NLP processing;
+- [ ] Refactor;
+- [ ] Add NLP processing;
 
 __________
 
