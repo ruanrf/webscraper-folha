@@ -1,5 +1,6 @@
 # webscrapper-folha
-* Simple and personal python web scraper built as an evaluation method for "ILC - Introdução à Linduagem Computacional" (Introduction to Computational Linguistics) class at UFABC - Universidade Federal do ABC.
+* Python web scraper, part of a Natural Language Processing (NLP) project, consisting of a linguistic study between two corporas. Both corporas were built with articles scrapped from "Folha de São Paulo", ranging 1 month around the opening and with 20 years of difference between each corpora. 
+* The project was developed as part of the evaluation method for "ILC - Introdução à Linguagem Computacional" (Introduction to Computational Linguistics), at UFABC - Universidade Federal do ABC.
 
 * The scraper was built to make a robust corpus for further textual analysis. It is built and tested to be used under a very specific set of conditions, and only works at folha.com.br, as the needs for the project.
 
@@ -8,14 +9,14 @@
 
 # IMPORTANT NOTE:
       
-Script usage is not meant to bypass the subscription system. 
+Script is not meant to be used in order to bypass the subscription system. 
 
-During the development process, we had an account with a recurring payment in order to have full access to the website.
-
-
+During the development process, the group had an account with a recurring payment in order to have full access to the website.
 
 
-# Content:
+
+
+# Content (to be updated):
     
 - 1st cell: imports;
 
@@ -27,10 +28,10 @@ During the development process, we had an account with a recurring payment in or
 
 
 # TO DO:
-- [ ] Better readme.md
+- [ ] Better README.md
 - [ ] Refactor;
-- [ ] Add NLP processing;
+- [ ] Add NLP processing files and bring results;
 
 __________
 
-> RUAN FERNANDES, Matheus Costa, Vitor Miguel. Aug/19.
+<h2> RUAN FERNANDES, Matheus Costa, Vitor Miguel. UFABC, Aug/19. </h2>
