@@ -1,5 +1,5 @@
-# webscrapper-folha
-* Python web scraper, part of a Natural Language Processing (NLP) project, consisting of a linguistic study between two corporas. Both corporas were built with articles scrapped from "Folha de São Paulo", ranging 1 month around the opening and with 20 years of difference between each corpora. 
+# webscraper-folha
+* Python web scraper, part of a Natural Language Processing (NLP) project, consisting of a linguistic study between two corporas. Both corporas were built with articles scraped from "Folha de São Paulo", ranging 1 month around the opening and with 20 years of difference between each corpora. 
 * The project was developed as part of the evaluation method for "ILC - Introdução à Linguagem Computacional" (Introduction to Computational Linguistics), at UFABC - Universidade Federal do ABC.
 
 * The scraper was built to make a robust corpus for further textual analysis. It is built and tested to be used under a very specific set of conditions, and only works at folha.com.br, as the needs for the project.
